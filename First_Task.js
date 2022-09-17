@@ -8,7 +8,7 @@ function switchValue()
 {
     var a = 3;
     var b = 9;
-    console.log(`Before switcheroo:\na = ${a}, b = ${b}`)
+    console.log(`Before switcheroo:\na = ${a}, b = ${b}`);
     var temp = a;
     a = b;
     b = temp;
